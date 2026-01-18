@@ -102,4 +102,3 @@ with sd.InputStream(samplerate=sr, channels=1, blocksize=block, callback=audio_c
             lose = False
             wait = 40
 
-
